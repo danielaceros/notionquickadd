@@ -11,13 +11,16 @@
 </div>
 </html>
 
-<h1>Description</h1>
+# Notion Quickadd
 **Notion Quickadd** is a quick method to add tasks, thoughts or ideas to your Notion, easy and free developed with Electron and love by Daniel Acero Sagredo
 
 # Installation by project
-
+https://github.com/danielaceros/notionquickadd/assets/96375209/a9f561c1-15a2-4da0-88b0-b6f750bdff2b
 
 # Installation by .exe
 https://github.com/danielaceros/notionquickadd/assets/96375209/19d89f8a-e4a6-4188-a3df-93d83c5beddf
 
 # Donate
+<a href="https://www.paypal.me/danielacerosagredos/">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
