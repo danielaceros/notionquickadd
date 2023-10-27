@@ -6,12 +6,10 @@
 <div align="center">
 <a href=https://github.com/danielaceros><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=@danielaceros&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img src="https://img.shields.io/github/followers/danielaceros?style=social" alt="Star Badge"/>
-<a><img src="https://img.shields.io/github/last-commit/danielaceros/instaloaderbot" alt="Join Community Badge"/></a>
-<a><img src="https://img.shields.io/github/repo-size/danielaceros/instaloaderbot" />
+<a><img src="https://img.shields.io/github/last-commit/danielaceros/notionquickadd" alt="Join Community Badge"/></a>
+<a><img src="https://img.shields.io/github/repo-size/danielaceros/notionquickadd"/>
 </div>
 </html>
-
-# Description
 
 **Notion Quickadd** is a quick method to add tasks, thoughts or ideas to your Notion, easy and free developed with Electron and love by Daniel Acero Sagredo
 
