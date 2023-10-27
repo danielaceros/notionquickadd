@@ -1,0 +1,23 @@
+{
+  "name": "notion-quickadd",
+  "version": "1.0.0",
+  "description": "a Notion Quickadd",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "Notion"
+  ],
+  "author": "Daniel Acero Sagredo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.0.2",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.13",
+    "dotenv": "^16.3.1"
+  }
+}
