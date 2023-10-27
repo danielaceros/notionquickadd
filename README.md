@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/github/followers/danielaceros?style=social" alt="Star Badge"/>
 <a><img src="https://img.shields.io/github/last-commit/danielaceros/notionquickadd" alt="Join Community Badge"/></a>
 <a><img src="https://img.shields.io/github/repo-size/danielaceros/notionquickadd"/>
+</div>
 </html>
 
 # Description
