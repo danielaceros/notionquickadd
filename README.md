@@ -11,7 +11,7 @@
 </div>
 </html>
 
-# Description
+d
 **Notion Quickadd** is a quick method to add tasks, thoughts or ideas to your Notion, easy and free developed with Electron and love by Daniel Acero Sagredo
 
 # Installation by project
